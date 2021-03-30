@@ -87,7 +87,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.naver.hikkm10.javaStudy</mainClass>
+							<mainClass>com.naver.hikkm10.javaStudy.CSVParseSampleCore</mainClass>
 							<addClasspath>true</addClasspath>
 							<addExtensions>true</addExtensions>
 							<packageName>com.naver.hikkm10.javaStudy</packageName>
